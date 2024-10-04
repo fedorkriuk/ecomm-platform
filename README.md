@@ -60,7 +60,7 @@ In the backend directory
 npm run dev
 
 
-## In the directory
+## In The Directory
 npm run dev
 
 
